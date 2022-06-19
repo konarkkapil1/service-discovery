@@ -1,0 +1,8 @@
+{
+    "api": {
+        "host": "prod host"
+    },
+    "auth": {
+        "host": ""
+    }
+}

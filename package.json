@@ -1,0 +1,16 @@
+{
+  "name": "service-discovery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "konark kapil",
+  "license": "ISC",
+  "dependencies": {
+    "typeorm": "^0.3.6"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
